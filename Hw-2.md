@@ -1,3 +1,7 @@
+Use this python intepreter for these work.
+
+https://repl.it/languages/python3
+
 ### HW Problem #1
 
 Write a program to find out your total interest gain at a bank. 
