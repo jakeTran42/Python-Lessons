@@ -18,7 +18,7 @@ Output:
 1
 ```
 
-2. Write a program that will keep asking the user if its raining otuside until the answer is yes.
+2. Write a program that will keep asking the user if its raining outside until your answer is yes.
 
 Example
 
