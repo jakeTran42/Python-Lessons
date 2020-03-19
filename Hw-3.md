@@ -36,5 +36,7 @@ yes
 If you have any trouble regarding the while loop please take a look at these resources
 
 https://www.programiz.com/python-programming/while-loop
+
 https://www.youtube.com/watch?v=7p-BJ92aZp0
+
 https://www.w3schools.com/python/python_while_loops.asp
