@@ -33,6 +33,19 @@ yes
 > Ok bring an umbrella...
 ```
 
+3. Write a ```function``` that return the max of three number. your function should take in three arguments and return the largest 
+interger of the three.
+
+Example
+
+```
+Input: 
+biggestNumber(2, 7, -5)
+
+Output:
+7
+```
+
 If you have any trouble regarding the while loop please take a look at these resources
 
 https://www.programiz.com/python-programming/while-loop
@@ -40,3 +53,5 @@ https://www.programiz.com/python-programming/while-loop
 https://www.youtube.com/watch?v=7p-BJ92aZp0
 
 https://www.w3schools.com/python/python_while_loops.asp
+
+https://www.w3resource.com/python-exercises/python-functions-exercise-1.php
