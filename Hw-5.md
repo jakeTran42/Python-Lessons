@@ -1,6 +1,6 @@
 ### Homework #4
 
-1. Write a function called fizz_buzz that takes a number.
+1. Write a ```def``` function called fizz_buzz that takes a number.
 If the number is divisible by 3, it should return “Fizz”.
 If it is divisible by 5, it should return “Buzz”.
 If it is divisible by both 3 and 5, it should return “FizzBuzz”.
@@ -24,7 +24,7 @@ Input: 13
 13
 ```
 
-1. Write a function that uses the ```while``` or ```for``` loop that will print out every other number from 1-100.
+1. Write a program that uses the ```while``` or ```for``` loop that will print out every other number from 1-100.
 
 Example:
 
