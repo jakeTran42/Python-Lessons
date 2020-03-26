@@ -1,4 +1,4 @@
-### Homework #4
+### Homework #5
 
 1. Write a ```def``` function called fizz_buzz that takes a number.
 If the number is divisible by 3, it should return “Fizz”.
