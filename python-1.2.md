@@ -48,12 +48,13 @@ get_prime(18)
 > 2, 3, 5, 7, 11, 13, 17
 ```
 
-Resources:
+### Resources:
+
 https://automatetheboringstuff.com/2e/chapter2/
 
 https://automatetheboringstuff.com/2e/chapter3/
 
-w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_for_loops.asp
 
 https://www.w3schools.com/python/python_functions.asp 
 
