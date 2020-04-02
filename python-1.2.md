@@ -39,7 +39,7 @@ Output
 ```
 
 ### Problem 3
-Write a function called ```get_primes(limit) that prints all the prime numbers between 0 and limit where limit is a parameter.
+Write a function called ```get_primes(limit)``` that prints all the prime numbers between 0 and limit where limit is a parameter.
 
 Output example
 ```
@@ -53,11 +53,11 @@ https://automatetheboringstuff.com/2e/chapter2/
 
 https://automatetheboringstuff.com/2e/chapter3/
 
+w3schools.com/python/python_for_loops.asp
+
 https://www.w3schools.com/python/python_functions.asp
 
-https://storage.googleapis.com/nexclap-234019.appspot.com/forloopbackwards.mp4
-
-w3schools.com/python/python_for_loops.asp
+https://djangocentral.com/functions-in-python/
 
 https://www.geeksforgeeks.org/basic-operators-python/
 
