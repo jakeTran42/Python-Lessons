@@ -4,7 +4,10 @@ Use Repl.it python editor to write your program and save the file to your comput
 
 https://repl.it/languages/python3
 
-Using the for loop, please write a program that will loop through the number from 1 to 30. If the number happens to be an odd number, print out "odd". If the number is even, print "even"
+### Problem 1
+
+Using the ```for``` loop, please write a program that will loop through the number from 1 to 30. If the number happens to be an odd number, print out "odd". If the number is even, print "even"
+```
 Example Output:
 
 > 1 Odd
@@ -16,12 +19,13 @@ Example Output:
 .
 ..
 ...
-and so on...up to number 30. 
+```
+
 Note that this problem can be solve using the while loop also but please use the for loop.
 
 Hint: Look up the modulus % operator and use it to solve the problem
 
-### Problem 1
+### Problem 2
 
 Write a function called ```show_stars(rows)```. If rows is 5, it should print the following:
 
@@ -34,7 +38,7 @@ Output
 *****
 ```
 
-### Problem 2
+### Problem 3
 Write a function called ```get_primes(limit) that prints all the prime numbers between 0 and limit where limit is a parameter.
 
 Output example
