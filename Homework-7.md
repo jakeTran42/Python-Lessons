@@ -5,7 +5,7 @@ Use Repl.it python editor to write your program and save the file to your comput
 https://repl.it/languages/python3
 
 
-1. Create an array called ```number_list``` of 5 integers and display the array items. Access individual element through indexes.
+### 1. Create an array called ```number_list``` of 5 integers and display the array items. Access individual element through indexes.
 
 Example
 
@@ -14,9 +14,9 @@ print(number_list[4])
 > 5
 ```
 
-2. Using the array you created for problem #1. Return the length of the array.
+### 2. Using the array you created for problem #1. Return the length of the array.
 
-3. Create an array called ```grocery_list``` and add 5 or more grocery items into the list.
+###3. Create an array called ```grocery_list``` and add 5 or more grocery items into the list.
 
 Example
 
