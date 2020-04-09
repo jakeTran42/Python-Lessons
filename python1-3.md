@@ -32,7 +32,7 @@ get_occurence(4)
 > This number occured 3 times
 ```
 
-### Write a function called ```list_sum()``` with a list as the parameter/argument that return the total sum of the elements in a list/array.
+### 5.Write a function called ```list_sum()``` with a list as the parameter/argument that return the total sum of the elements in a list/array.
 
 Example
 ```
