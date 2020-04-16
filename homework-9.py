@@ -36,6 +36,7 @@ Exmample
 dict = {'a': 100, 'b': 200, 'c': 50, 'd': 875, 'e': 105}
 
 >>> {'c': 50, 'a': 100, 'e':105, 'b': 200, 'd': 875}
+```
 
 Resources
 
@@ -46,4 +47,3 @@ https://automatetheboringstuff.com/2e/chapter4/
 https://www.programiz.com/python-programming/array
 
 https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm
-```
