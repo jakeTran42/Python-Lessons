@@ -31,16 +31,16 @@ dict_sum(my_dict)
 
 ### Stretch Challenge
 
-3. Given the following dictionary, write a python function called ```remove_duplicate(my_dict)``` (with our dictionary as parameter) that remove duplicates from a dictionary and return the dictionary without duplicates.
+3. Given the following dictionary, write a python function called ```remove_duplicate(my_dict)``` (with our dictionary as parameter) that remove duplicates values from a dictionary and return the dictionary without duplicates.
 
-student_data = {'name': 'Sara', 'name': 'David', 'name': 'Sara', 'name': 'Surya'}
+student_data = {'name_1': 'Sara', 'name_2': 'David', 'name_3': 'Sara', 'name_4': 'Surya'}
 
 Example:
 
 ```
 remove_duplicates(my_dict)
 
->>> {'name': 'Sara', 'name': 'David', 'name': 'Surya'}
+>>> {'name_1': 'Sara', 'name_2': 'David', 'name_4': 'Surya'}
 ```
 
 Resources
