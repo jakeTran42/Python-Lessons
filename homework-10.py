@@ -1,10 +1,4 @@
-### Homework #7
-
-Use Repl.it python editor to write your program and save the file to your computer when youre done.
-
-https://repl.it/languages/python3
-
-1. 5. Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+1. Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
 
 Example
 
