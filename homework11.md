@@ -1,4 +1,4 @@
-### Homework #7
+### Homework
 
 Use Repl.it python editor to write your program and save the file to your computer when youre done.
 
