@@ -1,3 +1,7 @@
+Use this python intepreter for these work.
+
+https://repl.it/languages/python3
+
 ### Homework #3
 
 1. Write a program using the ```while``` loop that print out the number from 10 to 1.
