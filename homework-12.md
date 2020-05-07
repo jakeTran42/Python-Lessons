@@ -31,3 +31,11 @@ https://code.visualstudio.com/ (local)
 > https://edabit.com/challenge/gB7nt6WzZy8TymCah
 
 >https://edabit.com/challenge/dLnZLi8FjaK6qKcvv
+
+4. Additional Challenge
+
+https://edabit.com/challenge/uK4Dw7Pise5uCfKqo
+
+https://edabit.com/challenge/kbtju9wk5pjGYMmHF
+
+https://edabit.com/challenge/yPzfgnDsPWXwH7dMq
