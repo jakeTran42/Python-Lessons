@@ -28,14 +28,14 @@ my_dict = {'x':500, 'y':5874, 'z': 560}
 
 ### Stretch Challenge
 
-3. Write a python program to list all keys-value pair of a dictionary in order from least to greatest numerically. Display it however you like.
+3. Write a python program to list all value of a dictionary in order from least to greatest numerically. Display it however you like.
 
 Exmample
 
 ```
 dict = {'a': 100, 'b': 200, 'c': 50, 'd': 875, 'e': 105}
 
->>> {'c': 50, 'a': 100, 'e':105, 'b': 200, 'd': 875}
+>>> 50, 100, 105, 200, 875}
 ```
 
 Resources
