@@ -72,3 +72,8 @@ https://www.pythonforbeginners.com/basics/string-manipulation-in-python
 https://docs.python.org/2/library/strings.html
 
 https://programminghistorian.org/en/lessons/manipulating-strings-in-python
+
+### Solutions
+
+2. https://gist.github.com/jakeTran42/2e891eb55319a0892844fa74b3720a33
+5. https://gist.github.com/jakeTran42/f28bc011de66c1d34d0e678357746928
