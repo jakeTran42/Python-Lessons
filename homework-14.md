@@ -19,6 +19,8 @@ Example
 fibonacci(7)
 
 >>> 13
+
+This is the number that the fib sequence place 7 would be in ex. 1, 1, 2, 3, 5, 8, 13
 ```
 
 2. Write a Python recursive function to calculate the sum of the positive integers of n+(n-2)+(n-4)... (until n-x =< 0).
