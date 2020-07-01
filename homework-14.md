@@ -40,3 +40,10 @@ https://www.datacamp.com/community/tutorials/understanding-recursive-functions-p
 https://www.programiz.com/python-programming/recursion
 
 https://realpython.com/python-thinking-recursively/
+
+
+### Solutions
+
+https://gist.github.com/jakeTran42/0c64fa6bc2d14df7c1d527b75b10e7a9
+
+https://gist.github.com/jakeTran42/2e8c4b91f09cedf69e355c16d94a11be
