@@ -35,7 +35,7 @@ Largest_Prime_Factor(330)
 >>> 11
 ```
 
-### Handlign Error Practice
+### Handling Error Practice
 
 * Find the errors/bug and fix it so that the program can run correctly.
 
