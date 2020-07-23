@@ -14,3 +14,8 @@ Use symbols to draw the man in hangman.
 ### Helpful resources
 
 https://inventwithpython.com/invent4thed/chapter7.html
+
+
+Solution:
+
+https://gist.github.com/jakeTran42/e24b59ac4ad4bd33a49290e5606ab94c
