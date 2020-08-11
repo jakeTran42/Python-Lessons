@@ -52,6 +52,28 @@ else:
 >> False
 ```
 
+3. Write a method to return the size or count of a linked list.
+
+Sample
+
+```
+items = singly_linked_list()
+items.size()
+
+>>> 5
+```
+
+4. The delete method traverses the list in the same way that search does, but in addition to keeping track of the current node, the delete method also remembers the last node it visited. When delete finally arrives at the node it wants to delete, it simply removes that node from the chain by “leap frogging” it. Write a function to delete an iitem from the linkedlist from a parameter that is given. If the item does not exist then return None.
+
+Sample
+
+```
+items = singly_linked_list()
+items.deleteNode("red")
+```
+
+
+
 Resource:
 
 https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm
