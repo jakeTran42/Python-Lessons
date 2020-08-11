@@ -69,7 +69,23 @@ Sample
 
 ```
 items = singly_linked_list()
-items.deleteNode("red")
+items.deleteNode("apple")
+```
+
+5. Inserting between 2 nodes. Write a method that will insert a new node after an existing node. 
+
+Sample
+
+```
+items = singly_linked_list()
+items.insertNode("Apple", "Blue")
+
+>>Apple
+>>Blue
+>>Orange
+>>Python
+>>Hello
+>>World
 ```
 
 
