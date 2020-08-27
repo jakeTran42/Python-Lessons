@@ -21,6 +21,8 @@ https://dbader.org/blog/python-linked-list
 Type of Strcutures:
 https://www.datacamp.com/community/tutorials/data-structures-python
 
+### Homework
+
 1. Write a Python program to create a singly linked list, append some items and iterate through the list.
 
 Sample output:
