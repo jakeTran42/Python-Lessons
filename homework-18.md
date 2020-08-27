@@ -10,6 +10,17 @@ https://repl.it/languages/python3  (online)
 https://code.visualstudio.com/ (local)
 ```
 
+### Read these materials to understand the fundamnetals of Linked List vs Array Data stuctures:
+
+Video:
+https://www.youtube.com/watch?v=lC-yYCOnN8Q
+
+Write Up:
+https://dbader.org/blog/python-linked-list
+
+Type of Strcutures:
+https://www.datacamp.com/community/tutorials/data-structures-python
+
 1. Write a Python program to create a singly linked list, append some items and iterate through the list.
 
 Sample output:
