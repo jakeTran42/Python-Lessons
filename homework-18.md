@@ -20,6 +20,7 @@ Write Up:
 
 1. https://realpython.com/linked-lists-python/
 2. https://dbader.org/blog/python-linked-list
+3. https://stackabuse.com/linked-lists-in-detail-with-python-examples-single-linked-lists/
 
 Type of Structures:
 
