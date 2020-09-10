@@ -18,6 +18,7 @@ https://code.visualstudio.com/ (local)
 2. https://www.programiz.com/python-programming/list-comprehension
 
 Complete the following exercise using List Comprehension
+
 Exercise: https://gist.github.com/doughsay/cb50d9e4d344230ebc166255a202f81d
 
 
