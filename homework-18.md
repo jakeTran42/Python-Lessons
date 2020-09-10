@@ -1,4 +1,4 @@
-### Homework #12
+### Homework #18
 
 Please use an editor/intepreter to write these programs.
 
@@ -18,9 +18,10 @@ https://www.youtube.com/watch?v=lC-yYCOnN8Q
 
 Write Up:
 
-https://dbader.org/blog/python-linked-list
+1. https://realpython.com/linked-lists-python/
+2. https://dbader.org/blog/python-linked-list
 
-Type of Strcutures:
+Type of Structures:
 
 https://www.datacamp.com/community/tutorials/data-structures-python
 
@@ -105,34 +106,87 @@ items.insertNode("Apple", "Blue")
 ```
 
 # Advantages of Array
-"""
+
 Easier to use and access
-Faster access to the elements"""
+Faster access to the elements
 
 # Disadvantage of Array
 
-"""
 Fixed size - the size of the array is static
 
 One block allocation - if you don't have enough memory to provide a single block (but you have sufficient scattered memory blocks) to allocate the space for the array then you'll need to defragment and other similar stuff to first create a free block of that size. So you may like to term it as improper utilization of memory
 
 Complex position-based insertion - if you want to insert an element at a position already covered by some other element then you got to shift right by one position all the elements to the right of that position. This will vacate the position for you to insert the new element at the desired position. The more elements you have to the right of the desired position, the more expensive the process will be
-"""
+
 
 # Advantage of Linked list
-"""
+
 Flexibility - insert at (or delete from) any position in contant time
 
 No single allocation of memory needed - fragmented memory can be put to a better use
 
-Dynamic allocation - the size is not required to be known in advance"""
+Dynamic allocation - the size is not required to be known in advance
 
 # Disadvantage of Link List
-"""
+
 Complex to use and access - relatively complex as compared to arrays
 
 No constant time access to the elements - simply because it doesn't involve the simple arithmetic used by arrays to compute the memory address, so relatively inefficient as compared to arrays
-"""
+
+
+Starter Code:
+
+```
+class Node:
+  # function
+  def __init__(self, data=None):
+    self.data = data
+    self.next = None
+
+class LinkedList:
+  def __init__(self):
+    self.head = None
+    # self.tail = None
+  
+  def prepend(self, data):
+    # Insert an element to beginning of list
+    if self.head ==  None:
+      self.head = Node(data=data, next=self.head)
+  
+  def append(self, data):
+    # Insert element to end of list
+    if self.head == None:
+      self.head = Node(data=data)
+      return
+    current = self.head
+    while current.next:
+      current = current.next
+    current.next = Node(data=data)
+
+  def search(self, item):
+    # Loop through Link List
+    # if Item == Data return true
+    # if end of list , return false
+    pass
+
+  
+  def display(self):
+    # print out the elements inside linked list
+    current = self.head
+    while current is not None:
+      print(current.data, end="|")
+      current = current.next
+
+myList = LinkedList()
+
+myList.append("Boston")
+myList.append("New York")
+myList.append("SF")
+
+
+myList.display()
+```
+
 
 
 Resource:
