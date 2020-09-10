@@ -149,15 +149,19 @@ class LinkedList:
     # self.tail = None
   
   def prepend(self, data):
-    # Insert an element to beginning of list
+    """ Insert an element to beginning of list"""
+    
     if self.head ==  None:
       self.head = Node(data=data, next=self.head)
   
   def append(self, data):
-    # Insert element to end of list
+    """ Insert element to end of list """
+    
+    # If Linked list doesnt have any data, append data to head
     if self.head == None:
       self.head = Node(data=data)
       return
+    # If linked list already have data, loop through list until find the end of list and then append data
     current = self.head
     while current.next:
       current = current.next
@@ -171,7 +175,8 @@ class LinkedList:
 
   
   def display(self):
-    # print out the elements inside linked list
+    """ print out the elements inside linked list """
+    
     current = self.head
     while current is not None:
       print(current.data, end="|")
