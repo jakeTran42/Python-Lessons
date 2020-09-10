@@ -12,7 +12,7 @@ https://code.visualstudio.com/ (local)
 
 ## Below are list of built-in features that are available in python. Master them will give you an edge in writing cleaner and powerful code
 
-### List Comprehension 
+### 1. List Comprehension 
 
 1. https://realpython.com/list-comprehension-python/
 2. https://www.programiz.com/python-programming/list-comprehension
@@ -22,13 +22,13 @@ Complete the following exercise using List Comprehension
 Exercise: https://gist.github.com/doughsay/cb50d9e4d344230ebc166255a202f81d
 
 
-### Intertools
+### 2. Intertools
 
 1. https://realpython.com/python-itertools/
 2. https://medium.com/@jasonrigden/a-guide-to-python-itertools-82e5a306cdf8
 
 
-### Lambda Expression
+### 3. Lambda Expression
 
 1. https://realpython.com/lessons/what-is-lambda-function/
 2. https://realpython.com/python-lambda/
