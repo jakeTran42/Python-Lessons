@@ -27,6 +27,7 @@ Exercise: https://gist.github.com/doughsay/cb50d9e4d344230ebc166255a202f81d
 1. https://realpython.com/python-itertools/
 2. https://medium.com/@jasonrigden/a-guide-to-python-itertools-82e5a306cdf8
 
+Exercise: Using your own knowledge, write 10 examples using whatever Intertools methods you want. 
 
 ### 3. Lambda Expression
 
