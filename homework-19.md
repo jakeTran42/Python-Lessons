@@ -38,7 +38,7 @@ Quiz: https://realpython.com/quizzes/python-lambda/
 
 ### 4. Python Structures and Practice
 
-1. https://realpython.com/python-program-structure/#explicit-line-continuation
+1. https://realpython.com/python-program-structure/
 2. https://medium.com/@nishantbhushan10/python-lists-tuples-sets-dictionary-a9cbcac183e3
 3. https://thomas-cokelaer.info/tutorials/python/data_structures.html
 
