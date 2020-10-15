@@ -46,7 +46,7 @@ Quiz: https://realpython.com/quizzes/python-program-structure/viewer/
 
 Exercise: https://gist.github.com/jakeTran42/d34d9bbe79ea1dfc33fd77c92c7dd24a
 
-Solution: https://gist.github.com/jakeTran42/d34d9bbe79ea1dfc33fd77c92c7dd24a
+Solution: https://gist.github.com/jakeTran42/3b9a69ca5c30611a2bf12c83c1fd6110
 
 ### 5. Namespace, Scoping, and Generators
 
