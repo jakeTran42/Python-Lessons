@@ -34,3 +34,24 @@ You are free to google answers and get help from other sources.
 
 https://www.crashwhite.com/introcompsci/materials/assignments/activities-projects/project-addressbook.pdf
 
+### First exmaple
+
+```
+contactbook = []
+
+def add_contact(name, address, email, number):
+  new_contact = {"name": name, "address": address, "email": email, "number": number}
+  contactbook.append(new_contact)
+  
+# def delete_contact():
+
+
+# def edit_contact():
+
+
+# def find_contact():
+
+add_contact("john", "1234 Adress", "john@gmail.com", 21356342)
+
+print(contactbook)
+```
