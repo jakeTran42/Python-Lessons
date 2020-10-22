@@ -1,4 +1,4 @@
-### Contacbook Project
+### Contactbook Project
 
 #### Project Assignment
 
@@ -34,7 +34,7 @@ You are free to google answers and get help from other sources.
 
 https://www.crashwhite.com/introcompsci/materials/assignments/activities-projects/project-addressbook.pdf
 
-### First exmaple
+### First example
 
 ```
 contactbook = []
