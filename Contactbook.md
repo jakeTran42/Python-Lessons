@@ -42,9 +42,18 @@ contactbook = []
 def add_contact(name, address, email, number):
   new_contact = {"name": name, "address": address, "email": email, "number": number}
   contactbook.append(new_contact)
-  
-# def delete_contact():
 
+# 1. argument set as the name of the contact you want to delete
+
+# 2. Finding the contact in contact book
+
+# 3. Deletion method of that contact
+  
+def delete_contact(name):
+  for i in range(len(contactbook)):
+    if contactbook[i]["name"] == name:
+      del contactbook[i]
+      break
 
 # def edit_contact():
 
@@ -52,6 +61,14 @@ def add_contact(name, address, email, number):
 # def find_contact():
 
 add_contact("john", "1234 Adress", "john@gmail.com", 21356342)
+add_contact("jay", "1234 Adress", "john@gmail.com", 21356342)
+add_contact("jimmy", "1234 Adress", "john@gmail.com", 21356342)
+
+print(contactbook)
+
+delete_contact("jay")
+
+print("\n")
 
 print(contactbook)
 ```
