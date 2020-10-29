@@ -14,9 +14,13 @@ https://code.visualstudio.com/ (local)
 #### 1. Write a function that returns 
 
 'Good' for numbers divisible by 7
+
 'Food' for numbers divisible by 6
+
 'Universe' for numbers divisible by 42
+
 'Oops' for all other numbers
+
 Only one output, divisible by 42 takes precedence
 
 ```
