@@ -65,3 +65,10 @@ Given list: color_list = ["pink", "red", "blue", "blue", "red", "pink", "purple"
 
 {"pink": 3, "blue": 3, "red": 4, "purple": 1}
 ```
+#### 5. Given an array length 1 or more of intergers, return the difference between the largest and smallest values in the array. Note: the built-in min(v1, v2) and max(v1, v2) functions return the smaller or larger of two values. 
+
+```
+big_diff([10, 3, 5, 6]) → 7 # because 10 is biggest and 3 is smallest
+big_diff([7, 2, 10, 9]) → 8 # because 10 is biggest and 2 is smallest
+big_diff([9, 13, 12, 11]) → 4 # because 14 is biggest and 9 is smallest
+```
